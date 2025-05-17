@@ -1,1 +1,1 @@
-console.log("heeej");
+console.log("Pozdrav iz prve vjezba");
